@@ -1,10 +1,10 @@
 {
-  "name": "calculator",
+  "name": "@octodemo/node-calculator",
   "version": "1.0.0",
   "description": "Calculator",
   "repository": {
     "type": "git",
-    "url": "https://github.com/azure-pipelines-samples/node.js"
+    "url": "git+https://github.com/octodemo/node-calculator.git"
   },
   "main": "index.js",
   "scripts": {
