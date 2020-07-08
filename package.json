@@ -4,7 +4,7 @@
   "description": "Calculator",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/octodemo/node-calculator.git"
+    "url": "git+https://github.com/alwell-kevin/node-calculator.git"
   },
   "main": "index.js",
   "scripts": {
@@ -37,7 +37,7 @@
     "supertest": "^3.4.2"
   },
   "bugs": {
-    "url": "https://github.com/octodemo/node-calculator/issues"
+    "url": "https://github.com/alwell-kevin/node-calculator/issues"
   },
   "homepage": "https://github.com/octodemo/node-calculator#readme",
   "directories": {
